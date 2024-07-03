@@ -73,7 +73,7 @@ This project centers around an interactive Power BI dashboard designed to analyz
 - Publish the dashboard to the Power BI service for sharing and collaboration.
 
 ## Screenshot
-![Dashboard Screenshot](Screenshots/dashboard-screenshot.png)
+![Dashboard Screenshot](https://github.com/Chandana-sree-moparthi/Amazon-Prime-Video-Data-Analysis-Dashboard/blob/main/Amazon_Prime_Power%20BI%20dashboard/Dashboard%20Image.jpg)
 
 Above is a snapshot of the Power BI dashboard showcasing insights into content distribution, genre popularity, and user ratings on Amazon Prime Video. Explore interactive visualizations and trends to gain deeper understanding of the dataset.
 
