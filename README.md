@@ -66,12 +66,18 @@ This project centers around an interactive Power BI dashboard designed to analyz
 - Arrange the visuals on the report canvas to create a cohesive and interactive dashboard.
 - Add filters and slicers as needed to enhance interactivity.
 - Format the visuals for better readability and presentation.
-- Add the Amazon Prime Video logo for branding.
+- Add the [Amazon Prime Video logo](https://github.com/Chandana-sree-moparthi/Amazon-Prime-Video-Data-Analysis-Dashboard/blob/main/Amazon_Prime_Power%20BI%20dashboard/Prime%20video%20logo.png) for branding.
 
 ### 6. Publishing the Dashboard
 - Save your Power BI report.
 - Publish the dashboard to the Power BI service for sharing and collaboration.
 
+## Screenshot
+![Dashboard Screenshot](Screenshots/dashboard-screenshot.png)
+
+Above is a snapshot of the Power BI dashboard showcasing insights into content distribution, genre popularity, and user ratings on Amazon Prime Video. Explore interactive visualizations and trends to gain deeper understanding of the dataset.
+
 ## Conclusion
 This dashboard provides insights into the content distribution, genre popularity, user ratings, and more for Amazon Prime Video's offerings. By following these steps, you can recreate this analysis and gain valuable insights from the dataset.
+
 
