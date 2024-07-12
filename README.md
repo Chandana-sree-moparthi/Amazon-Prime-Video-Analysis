@@ -1,4 +1,4 @@
-# Amazon Prime Video Data Analysis Dashboard
+# Amazon Prime Video Metrics Hub
 This repository contains an interactive Power BI dashboard for analyzing and visualizing content distribution, genre popularity, and user ratings on Amazon Prime Video.
 
 ## Project Overview
